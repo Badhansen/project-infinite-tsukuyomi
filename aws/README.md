@@ -1,5 +1,8 @@
 # AWS all resource collection
 ## AWS resource by *Mohammad Mahdee-uz Zaman* sir
+Part One
+
+--------------------------------------------------------------------
 Let’s start the amazing journey!!!
 Welcome everyone to the AWS Career. We will be discussing a number of skills, career and resource related topics here. If you are serious about building your career in Cloud Computing, stay here, otherwise feel free to remove yourself from here.
 
@@ -73,3 +76,60 @@ Answering a few questions.. Follow this link on AWS Account creation. https://yo
 <br>
 
 Services you would need to learn
+
+Part Two
+
+-----------------------------------------------------------------
+- AWS Organizations
+- Landing Zone/Control Tower
+- Cloud Development Kit (CDK)
+- VPC
+- IAM
+- Cognito
+- EC2
+- RDS
+- AWS Lambda
+- API Gateway
+- Amplify
+- DynamoDB
+- Lex/Polly/
+
+Foundation Courses
+- [Setting up an account with AWS](https://www.youtube.com/watch?v=WviHsoz8yHk&feature=youtu.be)
+- [Get introduced to AWS Services](https://www.youtube.com/watch?v=Z3SYDTMP3ME&t=46s)
+- [AWS VPC Masterclass](https://www.youtube.com/watch?v=LX5lHYGFcnA&t=2599s)
+- [AWS Certified Cloud Practitioner](https://www.youtube.com/watch?v=3hLmDS179YE&t=1406s)
+- [AWS Certified Solutions Architect Associates](https://www.youtube.com/watch?v=Ia-UEYYR44s&t=36943s)
+- [AWS Certified Developer Associates](https://www.youtube.com/watch?v=RrKRN9zRBWs&t=14s)
+
+Serverless Courses
+
+- [AWS Lambda and Serverless Architecture Bootcamp](https://www.youtube.com/watch?v=-y4A6Q8yVx8&t=336s)
+- [Getting Started with AWS Lambda](https://www.youtube.com/watch?v=Y9E-jqbd3eI)
+- [Building microservices with AWS Lambda](https://www.youtube.com/watch?v=TOn0xhev0U)
+- [Serverless at scale - Design patterns and optimizations](https://www.youtube.com/watch?v=dzU_WjobaRA)
+- [Serverless architectural patterns and best practices](https://www.youtube.com/watch?v=9IYpGTS7Jy0&t=544s)
+- [Lambda, Angular and MongoDB Stack](https://www.youtube.com/watch?v=K3gShFhIuKU)
+- [Amazon API Gateway](https://www.youtube.com/watch?v=9ElpSPXk-g8)
+- [Building API from front to back](https://www.youtube.com/watch?v=cc_pKfDOH2E)
+- [I didn’t know Amazon API did that](https://www.youtube.com/watch?v=yfJZc3sJZ8E)
+- [Building modern APIs with GraphQL](https://www.youtube.com/watch?v=7aJItKmoeWo)
+- [CI/CD for Serverless and Containerized Applications](https://www.youtube.com/watch?v=01ewawuL-IY)
+
+Tools and Resources
+
+- [Link for AWS icons to be used for architectural diagrams](https://aws.amazon.com/architecture/icons/)
+- [AWS Quick Start guidelines](https://aws-quickstart.github.io/design-parms.html)
+- [API testing using Postman](https://www.youtube.com/watch?v=ISjyXzkF-4w)
+- [Building API-Driven Microsservices with Amazon API Gateway](https://www.youtube.com/watch?v=xkDcBssNd1g)
+
+- [API Documentation with the OpenAPI Specification & Swagger Tools](https://www.youtube.com/watch?v=72rmm6TV4eY)
+- [Deep dive into AWS Cloud Development Kit](https://www.youtube.com/watch?v=9As_ZIjUGmY)
+- [Infrastructure is Code with the AWS CDK](https://www.youtube.com/watch?v=ZWCvNFUN-sU)
+- [Advanced VPC design](https://www.youtube.com/watch?v=7acKgdDOOu4)
+
+
+Create AWS Educate Account In 2020 || Get Amazon Educate Account With Credits
+---------------------------------
+- [AWS Educate Account In 2020](https://www.youtube.com/watch?v=ucDHRtBy72c)
+- [Getting started with AWS Educate](https://www.youtube.com/watch?v=vjdJpjgG2CU)
