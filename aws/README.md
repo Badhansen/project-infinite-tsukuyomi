@@ -129,7 +129,28 @@ Tools and Resources
 - [Advanced VPC design](https://www.youtube.com/watch?v=7acKgdDOOu4)
 
 
-Create AWS Educate Account In 2020 || Get Amazon Educate Account With Credits
+## Create AWS Educate Account In 2020 || Get Amazon Educate Account With Credits
+
 ---------------------------------
 - [AWS Educate Account In 2020](https://www.youtube.com/watch?v=ucDHRtBy72c)
 - [Getting started with AWS Educate](https://www.youtube.com/watch?v=vjdJpjgG2CU)
+
+Lab facilities AWS by Zaman Bhai
+
+-------------------------------------
+- [QWIKLABS](https://run.qwiklabs.com/catalog?keywords=&locale=&cloud%5B%5D=AWS&format%5B%5D=labs&level%5B%5D=any&duration%5B%5D=any&modality%5B%5D=on_demand&language%5B%5D=en)
+
+Free Lab
+
+----------------------------------------------------------------
+- [Introduction to AWS Identity and Access Management (IAM)](https://run.qwiklabs.com/focuses/10408?catalog_rank=%7B%22rank%22%3A11%2C%22num_filters%22%3A4%2C%22has_search%22%3Afalse%7D&parent=catalog)
+- [Introduction to AWS Key Management Service](https://run.qwiklabs.com/focuses/14205?catalog_rank=%7B%22rank%22%3A59%2C%22num_filters%22%3A4%2C%22has_search%22%3Afalse%7D&parent=catalog)
+- [Introduction to Amazon DynamoDB](https://run.qwiklabs.com/focuses/14815?catalog_rank=%7B%22rank%22%3A7%2C%22num_filters%22%3A4%2C%22has_search%22%3Afalse%7D&parent=catalog)
+- [Introduction to Amazon Simple Storage Service (S3)](https://run.qwiklabs.com/focuses/11776?catalog_rank=%7B%22rank%22%3A9%2C%22num_filters%22%3A4%2C%22has_search%22%3Afalse%7D&parent=catalog)
+- [S3: Multi-region Storage Backup with Cross-Region Replication](https://run.qwiklabs.com/focuses/14831?catalog_rank=%7B%22rank%22%3A41%2C%22num_filters%22%3A4%2C%22has_search%22%3Afalse%7D&parent=catalog)
+- [Introduction to AWS Device Farm](https://run.qwiklabs.com/focuses/10377?catalog_rank=%7B%22rank%22%3A26%2C%22num_filters%22%3A4%2C%22has_search%22%3Afalse%7D&parent=catalog)
+- [Introduction to Amazon API Gateway](https://run.qwiklabs.com/focuses/10383?catalog_rank=%7B%22rank%22%3A27%2C%22num_filters%22%3A4%2C%22has_search%22%3Afalse%7D&parent=catalog)
+- [Introduction to Amazon Redshift](https://run.qwiklabs.com/focuses/14177?catalog_rank=%7B%22rank%22%3A31%2C%22num_filters%22%3A4%2C%22has_search%22%3Afalse%7D&parent=catalog)
+- [Introduction to Amazon CloudFront](https://run.qwiklabs.com/focuses/14183?catalog_rank=%7B%22rank%22%3A36%2C%22num_filters%22%3A4%2C%22has_search%22%3Afalse%7D&parent=catalog)
+- [Introduction to AWS Lambda](https://run.qwiklabs.com/focuses/10541?catalog_rank=%7B%22rank%22%3A38%2C%22num_filters%22%3A4%2C%22has_search%22%3Afalse%7D&parent=catalog)
+- [Image Insertion and Input Switching with AWS Elemental MediaLive](https://run.qwiklabs.com/focuses/8532?catalog_rank=%7B%22rank%22%3A57%2C%22num_filters%22%3A4%2C%22has_search%22%3Afalse%7D&parent=catalog)
